@@ -1,8 +1,11 @@
 # AOTEAURORA privacy notice
 
-**Effective and last updated:** 27 August 2026
+**Effective:** 27 August 2026  
+**Last updated:** 28 August 2026
 
-AOTEAURORA's current early build has no account system, advertising or analytics code. It does not sell personal information.
+**AOTEAURORA LIMITED** develops, publishes and operates AOTEAURORA and is responsible for the data practices described in this notice. Privacy and support enquiries can be sent to `aoteauroranz@gmail.com`.
+
+The current AOTEAURORA application has no account system, advertising or analytics code. AOTEAURORA LIMITED does not sell personal information.
 
 ## Optional location
 
@@ -16,15 +19,15 @@ The current build may keep small preferences and operational caches in browser o
 
 ## Notifications
 
-Push notifications are disabled in the current early build. The interface may mention notifications as a planned feature, but the current deployment does not create an active push subscription.
+Push notifications are disabled in the current application release. The interface may mention notifications as a planned feature, but the current deployment does not create an active push subscription.
 
 ## Support information
 
-If you email the developer or open a GitHub issue, the information you choose to include is used to answer the request and improve the project. Public GitHub issues are visible to others.
+If you email AOTEAURORA LIMITED or open a GitHub issue, the information you choose to include is used to answer the request and improve the app. Public GitHub issues are visible to others.
 
 ## External services
 
-The project requests scientific or forecast information from NOAA's Space Weather Prediction Center, GeoNet / Earth Sciences New Zealand and Open-Meteo. GitHub hosts this support site and its public issue tracker. The provider hosting an active preview may also process routine web requests. Services may receive standard network information such as your IP address. A weather request also contains the coordinates needed to return a local forecast. Each service applies its own terms and privacy policy.
+The app requests scientific or forecast information from NOAA's Space Weather Prediction Center, GeoNet / Earth Sciences New Zealand and Open-Meteo. GitHub hosts this support site and its public issue tracker. The application hosting provider may also process routine web requests. Services may receive standard network information such as your IP address. A weather request also contains the coordinates needed to return a local forecast. Each service applies its own terms and privacy policy.
 
 ## Your choices
 
@@ -33,8 +36,8 @@ The project requests scientific or forecast information from NOAA's Space Weathe
 - clear local site or app data; and
 - keep personal information out of public support reports.
 
-Local preferences remain until cleared. Support correspondence is kept only as reasonably needed to respond, maintain support records and improve the project.
+Local preferences remain until cleared. AOTEAURORA LIMITED keeps support correspondence only as reasonably needed to respond, maintain support records and improve the app.
 
-Questions: `nzbennycohen@gmail.com`
+Questions: `aoteauroranz@gmail.com`
 
 Read the [full visual privacy notice](privacy.html).

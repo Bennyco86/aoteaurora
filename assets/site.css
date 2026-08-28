@@ -205,6 +205,29 @@ h1 { max-width: 780px; margin-bottom: 28px; font-size: clamp(3.5rem, 6.25vw, 6re
 .no-download { margin: 27px 0 0; color: #a8b5c8; font-size: .78rem; }
 .no-download span { margin-right: 9px; color: var(--green); }
 
+.store-section { color: #14212a; background: var(--paper); }
+.store-heading { display: grid; grid-template-columns: 1fr auto; gap: 60px; align-items: end; }
+.store-heading h2 { max-width: 760px; margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(3.1rem, 5.7vw, 5.8rem); font-weight: 400; line-height: .96; letter-spacing: -.045em; }
+.publisher-card { min-width: 365px; padding: 22px 24px; display: grid; gap: 8px; border-left: 4px solid #159e4c; background: #e4eee8; }
+.publisher-card span { color: #5c6f68; font-size: .61rem; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; }
+.publisher-card strong { font-family: Georgia, serif; font-size: 1.35rem; font-weight: 400; }
+.publisher-card a { width: fit-content; color: #08779d; font-size: .78rem; font-weight: 750; text-decoration: underline; text-underline-offset: 2px; }
+.store-grid { margin-top: 70px; display: grid; grid-template-columns: 1fr 1fr; border: 1px solid #c8d3d6; }
+.store-card { min-height: 410px; padding: clamp(30px, 4vw, 48px); display: flex; flex-direction: column; background: #edf2f3; }
+.store-card + .store-card { border-left: 1px solid #c8d3d6; }
+.store-card-top { margin-bottom: 60px; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+.store-symbol { width: 46px; height: 46px; display: grid; place-items: center; color: white; border-radius: 13px; background: #071119; font-family: Georgia, serif; font-size: 1.2rem; }
+.google-store .store-symbol { color: #68e890; }
+.store-state { padding: 8px 11px; color: #0d6332; border: 1px solid #88cda3; background: #dff2e5; font-size: .58rem; font-weight: 850; letter-spacing: .12em; text-transform: uppercase; }
+.store-state.planned { color: #5b4974; border-color: #c5b3dd; background: #eee7f6; }
+.store-card > p:not(.store-copy) { margin-bottom: 7px; color: #65767e; font-size: .57rem; font-weight: 850; letter-spacing: .17em; }
+.store-card h3 { margin: 0 0 24px; font-family: Georgia, serif; font-size: clamp(2.2rem, 4vw, 3.5rem); font-weight: 400; letter-spacing: -.035em; }
+.store-copy { max-width: 550px; color: #53666f; font-size: .9rem; line-height: 1.7; }
+.store-link-placeholder { margin-top: auto; padding-top: 20px; display: flex; align-items: center; justify-content: space-between; gap: 20px; color: #687a82; border-top: 1px solid #c4cfd2; font-size: .68rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+.store-link-placeholder strong { color: #182c35; }
+.price-note { max-width: 920px; margin: 25px 0 0; color: #687a83; font-size: .76rem; line-height: 1.65; }
+.price-note strong { color: #20343d; }
+
 .support-cta { padding: 80px 0; color: #071119; background: linear-gradient(110deg, #5ade87, #56cfe3 62%, #a98cf4); }
 .support-box { display: grid; grid-template-columns: 1.35fr .65fr; gap: 60px; align-items: end; }
 .support-box .eyebrow { color: #154d43; }
@@ -278,6 +301,8 @@ h1 { max-width: 780px; margin-bottom: 28px; font-size: clamp(3.5rem, 6.25vw, 6re
   .source-grid article { min-height: 250px; border-right: 0; border-bottom: 1px solid #c5d0d4; }
   .science-note { grid-template-columns: 1fr; gap: 30px; }
   .status-icon-wrap { max-width: 330px; margin: 0 auto 30px; }
+  .store-heading { grid-template-columns: 1fr; }
+  .publisher-card { min-width: 0; max-width: 520px; }
   .support-actions { max-width: 420px; }
   .footer-grid { grid-template-columns: 1fr 1fr; }
   .footer-grid > p { grid-column: 1 / -1; text-align: left; }
@@ -314,6 +339,9 @@ h1 { max-width: 780px; margin-bottom: 28px; font-size: clamp(3.5rem, 6.25vw, 6re
   .status-facts { grid-template-columns: 1fr; }
   .status-facts > div, .status-facts > div:not(:first-child) { padding: 18px 0; border-right: 0; border-bottom: 1px solid var(--line); }
   .status-facts > div:last-child { border-bottom: 0; }
+  .store-grid { grid-template-columns: 1fr; }
+  .store-card { min-height: 375px; }
+  .store-card + .store-card { border-left: 0; border-top: 1px solid #c8d3d6; }
   .footer-grid { grid-template-columns: 1fr; }
   .footer-links { flex-wrap: wrap; }
   .footer-grid > p { grid-column: auto; }
