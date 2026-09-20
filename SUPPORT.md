@@ -5,7 +5,7 @@ AOTEAURORA is a commercial New Zealand-focused southern-lights app priced at USD
 ## Get help
 
 - [Open a GitHub issue](https://github.com/Bennyco86/aoteaurora/issues/new) for a reproducible bug or feature idea.
-- Email `aoteauroranz@gmail.com` for a private support question.
+- Email `admin@aoteaurora.co.nz` for a private support question.
 - Use the [visual support guide](support.html) for common troubleshooting steps.
 
 Include what you expected, what happened, the approximate New Zealand date and time, your device/browser or build, and a screenshot with personal information removed.

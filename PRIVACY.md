@@ -1,9 +1,9 @@
 # AOTEAURORA privacy notice
 
 **Effective:** 27 August 2026  
-**Last updated:** 14 September 2026
+**Last updated:** 20 September 2026
 
-**AOTEAURORA LIMITED** develops, publishes and operates AOTEAURORA and is responsible for the data practices described in this notice. Privacy and support enquiries can be sent to `aoteauroranz@gmail.com`.
+**AOTEAURORA LIMITED** develops, publishes and operates AOTEAURORA and is responsible for the data practices described in this notice. Privacy and support enquiries can be sent to `admin@aoteaurora.co.nz`.
 
 The current AOTEAURORA application has no account system, advertising or analytics code. AOTEAURORA LIMITED does not sell personal information.
 
@@ -38,6 +38,6 @@ The app requests scientific or forecast information from NOAA's Space Weather Pr
 
 Local preferences remain until cleared. AOTEAURORA LIMITED keeps support correspondence only as reasonably needed to respond, maintain support records and improve the app.
 
-Questions: `aoteauroranz@gmail.com`
+Questions: `admin@aoteaurora.co.nz`
 
 Read the [full visual privacy notice](privacy.html).

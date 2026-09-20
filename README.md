@@ -27,7 +27,7 @@ This repository does **not** contain the app, its private source code, preview a
 
 ## Support
 
-Use [GitHub Issues](https://github.com/Bennyco86/aoteaurora/issues) for reproducible bugs and feature ideas, or email `aoteauroranz@gmail.com` for a private support question.
+Use [GitHub Issues](https://github.com/Bennyco86/aoteaurora/issues) for reproducible bugs and feature ideas, or email `admin@aoteaurora.co.nz` for a private support question.
 
 ---
 
