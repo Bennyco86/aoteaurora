@@ -6,7 +6,7 @@ Official product, store-status, privacy and support site for **AOTEAURORA**, a c
 
 ## Store status
 
-- **Google Play:** listing in progress; official link coming soon.
+- **Google Play:** [available now](https://play.google.com/store/apps/details?id=nz.aoteaurora.app).
 - **Apple App Store:** release planned; official link coming later.
 
 ## What is here

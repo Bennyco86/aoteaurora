@@ -1,6 +1,6 @@
 # AOTEAURORA support
 
-AOTEAURORA is a commercial New Zealand-focused southern-lights app priced at USD 8.99. It is developed, published and operated by **AOTEAURORA LIMITED**. Its Google Play listing is in progress, and an Apple App Store release is planned.
+AOTEAURORA is a commercial New Zealand-focused southern-lights app priced at USD 8.99. It is developed, published and operated by **AOTEAURORA LIMITED**. It is [available now on Google Play](https://play.google.com/store/apps/details?id=nz.aoteaurora.app), and an Apple App Store release is planned.
 
 ## Get help
 
